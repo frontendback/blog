@@ -1,0 +1,10 @@
+title: My Blog
+description: A simple blog on GitHub Pages
+markdown: kramdown
+
+# Use Minima, which is still the default blog-friendly theme
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
